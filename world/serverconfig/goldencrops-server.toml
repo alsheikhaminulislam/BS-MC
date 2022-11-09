@@ -1,0 +1,7 @@
+
+["Golden Crops"]
+	#Make Golden Carrots plantable?  Default: true
+	plantableGoldenCarrots = true
+	#Make Baked Potatoes plantable?  Default: true
+	plantableBakedTatoes = true
+
