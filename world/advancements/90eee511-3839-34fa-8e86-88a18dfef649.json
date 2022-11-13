@@ -1,0 +1,177 @@
+{
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-11-13 17:07:54 +0600"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2022-11-13 17:04:57 +0600",
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2022-11-13 16:37:14 +0600"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2022-11-13 17:36:02 +0600",
+      "minecraft:taiga": "2022-11-13 16:53:33 +0600",
+      "minecraft:deep_ocean": "2022-11-13 17:38:58 +0600",
+      "minecraft:birch_forest": "2022-11-13 16:37:14 +0600",
+      "minecraft:beach": "2022-11-13 17:32:15 +0600",
+      "minecraft:dark_forest": "2022-11-13 17:35:50 +0600",
+      "minecraft:river": "2022-11-13 17:33:37 +0600",
+      "minecraft:forest": "2022-11-13 17:31:20 +0600",
+      "minecraft:ocean": "2022-11-13 17:39:57 +0600",
+      "minecraft:old_growth_spruce_taiga": "2022-11-13 17:36:14 +0600",
+      "minecraft:old_growth_birch_forest": "2022-11-13 17:34:48 +0600",
+      "minecraft:savanna": "2022-11-13 17:37:03 +0600"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "orcz:orczchallenge": {
+    "criteria": {
+      "orczchallenge": "2022-11-13 16:37:14 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-11-13 17:07:54 +0600"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2022-11-13 16:37:14 +0600"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2022-11-13 17:39:37 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-11-13 17:07:54 +0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-11-13 17:07:54 +0600"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-11-13 17:07:54 +0600"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2022-11-13 16:37:14 +0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-11-13 17:07:54 +0600"
+    },
+    "done": true
+  },
+  "ecosystemmod:mossandmonsters": {
+    "criteria": {
+      "mossandmonsters": "2022-11-13 17:38:27 +0600"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
